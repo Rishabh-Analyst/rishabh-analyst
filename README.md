@@ -1,16 +1,25 @@
 ## Hi there 👋
+# Hi, I'm Rishabh Tiwari 👋
 
-<!--
-**Rishabh-Analyst/rishabh-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 MIS Analyst | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## About Me
+- Experienced in MIS Reporting and Data Analysis
+- Skilled in Advanced Excel, Power BI, and SQL
+- Passionate about transforming data into actionable insights
+- Currently building projects in Data Analytics and Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Advanced Excel (Pivot Tables, XLOOKUP, IF Functions, Data Cleaning)
+- Power BI (Dashboards & Data Visualization , power Quary)
+- SQL (Queries, Joins, Aggregations)
+- Data Analysis
+- MIS Reporting
+- KPI Tracking
+
+## Projects
+🚀 Projects will be added here soon.
+
+## Connect With Me
+- LinkedIn:www.linkedin.com/in/rishabh-tiwari-02b570404
+- Email: Rishabh.tiwari.4592@gmail.com
