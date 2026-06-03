@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Rishabh Tiwari 👋
 
 📊 MIS Analyst | Aspiring Data Analyst
