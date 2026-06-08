@@ -17,7 +17,9 @@
 - KPI Tracking
 
 ## Projects
-🚀 Projects will be added here soon.
+- Student Social Media Addiction Analysis
+- Amazon Sales Excel Dashboard
+- Retail Store SQL Analysis
 
 ## Connect With Me
 - LinkedIn:www.linkedin.com/in/rishabh-tiwari-02b570404
